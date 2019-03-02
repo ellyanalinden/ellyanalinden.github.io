@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Deep Learning 
 
-[Project 1 Title](/sample_page)
+[Dog Breed Classification](https://github.com/ellyanalinden/dog_project/blob/master/dog_app.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
