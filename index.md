@@ -4,6 +4,10 @@
 
 ### Deep Learning 
 
+[RNN/LSTM TV Script generation](https://github.com/ellyanalinden/tv_script_gen/blob/master/dlnd_tv_script_generation.ipynb)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
+---
 [CNN Dog Breed Classification](https://github.com/ellyanalinden/dog_project/blob/master/dog_app.ipynb)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
