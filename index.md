@@ -12,8 +12,8 @@
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Style Transfer - Holiday](https://github.com/ellyanalinden/holiday_style_transfer_no_grid/blob/master/Style_Transfer_Exercise_No_Grid.ipynb)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
 ---
 
