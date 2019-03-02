@@ -4,7 +4,7 @@
 
 ### Deep Learning 
 
-[Dog Breed Classification](https://github.com/ellyanalinden/dog_project/blob/master/dog_app.ipynb)
+[CNN Dog Breed Classification](https://github.com/ellyanalinden/dog_project/blob/master/dog_app.ipynb)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
 ---
@@ -20,13 +20,30 @@
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
 ---
-### Category Name 2
+[RNN Movie Sentiment](https://github.com/ellyanalinden/Pytorch_sentiment_movie_RNN/blob/master/Sentiment_RNN_Exercise.ipynb)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[RNN/LSTM Christmas Carol by Charles Dickens](https://github.com/ellyanalinden/Pytorch_christmas_carol_RNN_text/blob/master/Character_Level_RNN_Exercise.ipynb)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
+---
+[Style Transfer Exercise](https://github.com/ellyanalinden/Transfer_style_lesson_6/blob/master/Style_Transfer_Exercise.ipynb)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
+---
+[CNN Cifar 10 Exercise](https://github.com/ellyanalinden/pytorch_cifar_10_cnn-/blob/master/cifar10_cnn_exercise.ipynb)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
+---
+
+### Front-End Developer
+
+- [ReactJS Central Java Map](https://github.com/ellyanalinden/central-java)
+- [Arcade Game](https://ellyanalinden.github.io/Arcade-Game-Project/)
+- [Portfolio](https://ellyanalinden.github.io/Portfolio-Project/)
+- [ReactJS Book Project](https://github.com/ellyanalinden/Books-Project)
+
 
 ---
 
