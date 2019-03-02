@@ -16,7 +16,10 @@
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
 ---
+[Breast Cancer Diagnosis](https://github.com/ellyanalinden/breast_cancer_diagnosis/blob/master/breast_cancer_diagnosis.ipynb)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
