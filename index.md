@@ -5,7 +5,7 @@
 ### Deep Learning 
 
 [Dog Breed Classification](https://github.com/ellyanalinden/dog_project/blob/master/dog_app.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
