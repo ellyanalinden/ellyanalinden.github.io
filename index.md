@@ -4,6 +4,10 @@
 
 ### Deep Learning 
 
+[GAN MNIST](https://github.com/ellyanalinden/gan_mnist_exercise)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
+---
 [RNN/LSTM TV Script generation](https://github.com/ellyanalinden/tv_script_gen/blob/master/dlnd_tv_script_generation.ipynb)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
