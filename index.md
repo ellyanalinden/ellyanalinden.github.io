@@ -4,6 +4,7 @@
 
 ### Deep Learning 
 
+---
 [GAN MNIST](https://github.com/ellyanalinden/gan_mnist_exercise)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
