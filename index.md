@@ -5,6 +5,10 @@
 ### Deep Learning 
 
 ---
+[Face Generation DCGAN](https://github.com/ellyanalinden/face_gen_project)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
+---
 [GAN MNIST](https://github.com/ellyanalinden/gan_mnist_exercise)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
 
