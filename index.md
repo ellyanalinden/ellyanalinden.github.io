@@ -4,6 +4,13 @@
 
 ### Deep Learning 
 
+[Malaria Detection](https://github.com/ellyanalinden/malaria_detection_cnn)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
+
+[Diabetes Guideline NLP](https://github.com/ellyanalinden/nlp_diabetes_guideline)
+<!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
+
 ---
 [Face Generation DCGAN](https://github.com/ellyanalinden/face_gen_project)
 <!--img src="images/dummy_thumbnail.jpg?raw=true"/-->
